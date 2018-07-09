@@ -1,0 +1,26 @@
+
+hsquid:UnusedPrivateMethod"9Remove this unused private "getBackgroundHandler" method.(åÿ¯—şÿÿÿÿ8¾èÈíÇ,
+=squid:S1643"Use a StringBuilder instead.(Ê¦šøÿÿÿÿ8¾èÈíÇ,
+=squid:S1643"Use a StringBuilder instead.(õúÆáşÿÿÿÿ8¾èÈíÇ,
+Z"squid:SwitchLastCaseIsDefaultCheck""Add a default case to this switch.(×“¾ñùÿÿÿÿ8¾èÈíÇ,
+Z"squid:SwitchLastCaseIsDefaultCheck""Add a default case to this switch.(øå´¡ÿÿÿÿÿ8¾èÈíÇ,
+Hsquid:S3398"'Move this method into "recognizeAsync".(À©ã¶ÿÿÿÿÿ8¾èÈíÇ,
+Qsquid:S1068"0Remove this unused "mIsComputing" private field.(§ÏĞ±şÿÿÿÿ8¾èÈíÇ,
+squid:S1450"^Remove the "mScreenRotation" field and declare it as a local variable in the relevant methods.(íù¬ûÿÿÿÿÿ8¾èÈíÇ,
+lsquid:S1301"KReplace this "switch" statement by "if" statements to increase readability.(×“¾ñùÿÿÿÿ8¾èÈíÇ,
+lsquid:S1301"KReplace this "switch" statement by "if" statements to increase readability.(øå´¡ÿÿÿÿÿ8¾èÈíÇ,
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(™Œø·8¾èÈíÇ,
+`squid:S2583"DChange this condition so that it does not always evaluate to "false"(¹ØÒ8¾èÈíÇ,
+Qsquid:S1481"0Remove this unused "orientation" local variable.(ğñ©Æûÿÿÿÿ8¾èÈíÇ,
+osquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(¬Ø°€ÿÿÿÿÿ8¾èÈíÇ,
+osquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ıÄ×ûÿÿÿÿ8¾èÈíÇ,
+`squid:S1854"?Remove this useless assignment to local variable "orientation".(ğñ©Æûÿÿÿÿ8¾èÈíÇ,
+`squid:S1854"?Remove this useless assignment to local variable "orientation".(”ğ³Ğúÿÿÿÿ8¾èÈíÇ,
+[squid:S1854"?Remove this useless assignment to local variable "orientation".(ã ¹8¾èÈíÇ,
+ssquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(³¯Ğşÿÿÿÿ8¾èÈíÇ,
+nsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒáÓâ8¾èÈíÇ,
+ssquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¼½åÑùÿÿÿÿ8¾èÈíÇ,
+ssquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(·ÇëÕùÿÿÿÿ8¾èÈíÇ,
+Msquid:S1153"1Directly append the argument of String.valueOf().(«‰¦ô8¾èÈíÇ,
+Asquid:S2129" Remove this "String" constructor(§ÿÏÅÿÿÿÿÿ8¾èÈíÇ,
+jsquid:MaximumInheritanceDepth"<This class has 6 parents which is greater than 5 authorized.(ó¡‚­8¾èÈíÇ,

@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/lloyddcosta/.android/build-cache/bedd7782b3a46d070bac17a2d0eecadf4042f8da/output/jars/libs/converter-gson-2.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="57e4a03424c16c96f6e15b554008df9bac396d1f">
+        <dex dex="/home/lloyddcosta/Downloads/Android-FPVDemo-master (2)/FPVDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/converter-gson-2.2.0_9125fc5be9ba31c70808d397fe7d953aa2852dad/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/lloyddcosta/.android/build-cache/69ecd98119bc6e954f1d16df77b7538c6dabd5b8/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="78ea232052df889856dcb7b7b542707c89bb3bfb">
+        <dex dex="/home/lloyddcosta/Downloads/Android-FPVDemo-master (2)/FPVDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_cf88df7dcef69ec6d70f442dd59bd2367b6bcf4c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/lloyddcosta/.android/build-cache/a866768a8d2106808f3b808d65869e36f75b6362/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="debf30ce0a7560396b6235edef77e447006454c2">
+        <dex dex="/home/lloyddcosta/Downloads/Android-FPVDemo-master (2)/FPVDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_44652c98889be65c2f726d0dc42e745d29a4872c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/lloyddcosta/.android/build-cache/ca9477bd01458ab9c924e38b70b713b87140bdf0/output/jars/libs/internal_impl-23.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="/home/lloyddcosta/Downloads/Android-FPVDemo-master (2)/FPVDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.3.0_9aefe5c14b17e34dd17640585cd32f683b918daf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/lloyddcosta/.android/build-cache/2dea28bc2698ef92ae9bce7354fbdbc5d83d8bea/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="23be6993826b8fd88bbc8d14928bb3b8960d3d4e">
+        <dex dex="/home/lloyddcosta/Downloads/Android-FPVDemo-master (2)/FPVDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7f9a1aab6e60445e5767c356422a88d604777f85/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/lloyddcosta/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.8.2/3edcfe49d2c6053a70a2a47e4e1c2f94998a49cf/gson-2.8.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="3edcfe49d2c6053a70a2a47e4e1c2f94998a49cf">
+        <dex dex="/home/lloyddcosta/Downloads/Android-FPVDemo-master (2)/FPVDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/gson-2.8.2_287b9a41f1a2e80db3f754bbabed612ef0b381d3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/lloyddcosta/.android/build-cache/536a229475525d7a0e0ce7f11601da85a290d975/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="1b8e03daaa43fb0a4cd57e378167c2fd70454c1e">
+        <dex dex="/home/lloyddcosta/Downloads/Android-FPVDemo-master (2)/FPVDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f98d6645973b2b01030b86eabc614cde0594ae7b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/lloyddcosta/.android/build-cache/bedd7782b3a46d070bac17a2d0eecadf4042f8da/output/jars/libs/rxjava-2.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="597e94dc6f967f58d2ab3b092224375ffcc49bc5">
+        <dex dex="/home/lloyddcosta/Downloads/Android-FPVDemo-master (2)/FPVDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/rxjava-2.0.0_2a6fdbf3400da09b9a9cd55f2bacd7d4bc6df52b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/lloyddcosta/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.11.0/840897fcd7223a8143f1d9b6f69714e7be34fd50/okio-1.11.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="840897fcd7223a8143f1d9b6f69714e7be34fd50">
+        <dex dex="/home/lloyddcosta/Downloads/Android-FPVDemo-master (2)/FPVDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/okio-1.11.0_28d1770a2a6562335fc78f37c63682a40158306e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/lloyddcosta/.android/build-cache/bedd7782b3a46d070bac17a2d0eecadf4042f8da/output/jars/libs/rxjava-computation-expressions-0.21.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="fb55c48be64a50e492ed4d0ff8611cd7d89501ce">
+        <dex dex="/home/lloyddcosta/Downloads/Android-FPVDemo-master (2)/FPVDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/rxjava-computation-expressions-0.21.1_ace4a69dc3e91b8138b6ce2ea740afbc1c5df3fe/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/lloyddcosta/.android/build-cache/bedd7782b3a46d070bac17a2d0eecadf4042f8da/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="43df05e0e782c1c57d6106001d0af7175f421ee0">
+        <dex dex="/home/lloyddcosta/Downloads/Android-FPVDemo-master (2)/FPVDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e2e608dce495966a4ca4640ed2b658362e945746/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/lloyddcosta/.gradle/caches/modules-2/files-2.1/org.bouncycastle/bcprov-jdk15on/1.57/f66a135611d42c992e5745788c3f94eb06464537/bcprov-jdk15on-1.57.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="f66a135611d42c992e5745788c3f94eb06464537">
+        <dex dex="/home/lloyddcosta/Downloads/Android-FPVDemo-master (2)/FPVDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/bcprov-jdk15on-1.57_93d9c49b4dcfea932a7bf71c134af79cda778d92/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/lloyddcosta/.gradle/caches/modules-2/files-2.1/org.reactivestreams/reactive-streams/1.0.0/14b8c877d98005ba3941c9257cfe09f6ed0e0d74/reactive-streams-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="14b8c877d98005ba3941c9257cfe09f6ed0e0d74">
+        <dex dex="/home/lloyddcosta/Downloads/Android-FPVDemo-master (2)/FPVDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/reactive-streams-1.0.0_18ff047b1f7716ae724e69b5e0cb22626055ef7a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/lloyddcosta/.android/build-cache/bedd7782b3a46d070bac17a2d0eecadf4042f8da/output/jars/libs/adapter-rxjava2-2.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="f0672896d0ccddf52382fe5d4c188792c81f5a8f">
+        <dex dex="/home/lloyddcosta/Downloads/Android-FPVDemo-master (2)/FPVDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/adapter-rxjava2-2.2.0_05d6d6cc0d72c18990eae40861816353fa30b1a6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/lloyddcosta/.gradle/caches/modules-2/files-2.1/org.bouncycastle/bcpkix-jdk15on/1.57/5c96e34bc9bd4cd6870e6d193a99438f1e274ca7/bcpkix-jdk15on-1.57.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="5c96e34bc9bd4cd6870e6d193a99438f1e274ca7">
+        <dex dex="/home/lloyddcosta/Downloads/Android-FPVDemo-master (2)/FPVDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/bcpkix-jdk15on-1.57_8e41e3c340ac83acd77e885c54982080b6cadba3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/lloyddcosta/.android/build-cache/bedd7782b3a46d070bac17a2d0eecadf4042f8da/output/jars/libs/rxandroid-1.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="8c023dc6974699af1aca0e94e0e4f1403dc53849">
+        <dex dex="/home/lloyddcosta/Downloads/Android-FPVDemo-master (2)/FPVDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/rxandroid-1.1.0_c17ac6b538d89b7be171a791727d2decd2e6f419/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/lloyddcosta/.gradle/caches/modules-2/files-2.1/com.squareup.wire/wire-runtime/2.2.0/edcc5f389a5ffc0aa6fdcd73480e563affdbd24c/wire-runtime-2.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="edcc5f389a5ffc0aa6fdcd73480e563affdbd24c">
+        <dex dex="/home/lloyddcosta/Downloads/Android-FPVDemo-master (2)/FPVDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/wire-runtime-2.2.0_061d2b5a1ed590cef13f785c099f41e0f6dc944d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/lloyddcosta/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.3.0/support-annotations-23.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="/home/lloyddcosta/Downloads/Android-FPVDemo-master (2)/FPVDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.3.0_c306af17e103579e23add7d508dd7ab736f379f7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/lloyddcosta/.android/build-cache/ca9477bd01458ab9c924e38b70b713b87140bdf0/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="/home/lloyddcosta/Downloads/Android-FPVDemo-master (2)/FPVDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6f3f6b15ae80b9e73f626fbbb6b62e1f0bbb015e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/lloyddcosta/.android/build-cache/81f100bdd65de3a9bef4a114988bad1c32ca5e77/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="f0001e71cea6ae432a00021c6f727f5ef0f3d27e">
+        <dex dex="/home/lloyddcosta/Downloads/Android-FPVDemo-master (2)/FPVDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_57c4dcdf9b0d0dfa5a998648bd6c5b3c226fdf05/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/lloyddcosta/.android/build-cache/bedd7782b3a46d070bac17a2d0eecadf4042f8da/output/jars/libs/dji-rxjava-1.1.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="0c79b2547fa993825756d71430c9fe9cfba2c189">
+        <dex dex="/home/lloyddcosta/Downloads/Android-FPVDemo-master (2)/FPVDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/dji-rxjava-1.1.3_cf6390a17594f5d304653b4fa2049045c03dfe57/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/lloyddcosta/.android/build-cache/aa7c8b89e3626a7c36d7843b0331e282f92e7387/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="a0b5d60246cd9d4f3f2443611b3b4c25265840b5">
+        <dex dex="/home/lloyddcosta/Downloads/Android-FPVDemo-master (2)/FPVDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_11c39d69e738dad435a75a6c248a3436fc441fee/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/lloyddcosta/.android/build-cache/bedd7782b3a46d070bac17a2d0eecadf4042f8da/output/jars/libs/logging-interceptor-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="09793ad9c2308635c4e8a862d18f8b32a05cbb9d">
+        <dex dex="/home/lloyddcosta/Downloads/Android-FPVDemo-master (2)/FPVDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/logging-interceptor-3.6.0_b459016973ae80675ff69951ffdfa57708d23be0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/lloyddcosta/.android/build-cache/bedd7782b3a46d070bac17a2d0eecadf4042f8da/output/jars/libs/retrofit-2.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="b0d9c3a922a7794e960b65b0172606144b185811">
+        <dex dex="/home/lloyddcosta/Downloads/Android-FPVDemo-master (2)/FPVDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/retrofit-2.2.0_97e1a31e15df4dfaff178c9bebf09e3fde5392cd/classes.dex" />
+    </item>
+
+</items>

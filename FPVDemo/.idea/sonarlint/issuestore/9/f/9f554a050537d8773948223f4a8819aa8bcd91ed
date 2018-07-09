@@ -1,0 +1,43 @@
+
+\
+squid:S899"BDo something with the "boolean" value returned by "createNewFile".(ÌÞ±>8©–ˆíÇ,
+Ksquid:S1659"0Declare "PICK_IMAGE_GALLERY" on a separate line.(—¨Ž
+8©–ˆíÇ,
+¢squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ê¥¾àûÿÿÿÿ8©–ˆíÇ,
+Dsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8©–ˆíÇ,
+lsquid:S1301"KReplace this "switch" statement by "if" statements to increase readability.(×“¾ñùÿÿÿÿ8©–ˆíÇ,
+Zsquid:S1155">Use isEmpty() to check whether the collection is empty or not.(­áø³8©–ˆíÇ,
+Z"squid:SwitchLastCaseIsDefaultCheck""Add a default case to this switch.(×“¾ñùÿÿÿÿ8©–ˆíÇ,
+psquid:S00116"NRename this field "TAG" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÄÓÇÔÿÿÿÿÿ8©–ˆíÇ,
+ssquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ë·ý½üÿÿÿÿ8©–ˆíÇ,
+xsquid:S00116"[Rename this field "btn_select_image" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Â‡•‹8©–ˆíÇ,
+‚squid:S1488"aImmediately return this expression instead of assigning it to the temporary variable "newBitmap".(­Ýžéþÿÿÿÿ8©–ˆíÇ,
+Dsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8©–ˆíÇ,
+Dsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8©–ˆíÇ,
+xsquid:S00116"\Rename this field "PICK_IMAGE_CAMERA" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(—¨Ž
+8©–ˆíÇ,
+tsquid:S00116"RRename this field "et_name" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(öÚÐðýÿÿÿÿ8©–ˆíÇ,
+<squid:S1170"!Make this final field static too.(—¨Ž
+8©–ˆíÇ,
+Dsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8©–ˆíÇ,
+ysquid:S00116"]Rename this field "PICK_IMAGE_GALLERY" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(—¨Ž
+8©–ˆíÇ,
+{squid:S00116"YRename this field "BITMAP_QUALITY" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(§Œ¦»úÿÿÿÿ8©–ˆíÇ,
+osquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Îº¬øÿÿÿÿ8©–ˆíÇ,
+<squid:S1170"!Make this final field static too.(—¨Ž
+8©–ˆíÇ,
+vsquid:S00116"YRename this field "MAX_IMAGE_SIZE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŒýõÏ8©–ˆíÇ,
+jsquid:S2095"NUse try-with-resources or close this "FileOutputStream" in a "finally" clause.(ûŸ‰ï8©–ˆíÇ,
+Zsquid:S3398">Move this method into the anonymous class declared at line 49.(çÎûž8©–ˆíÇ,
+osquid:S00116"RRename this field "btn_add" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Â‡•‹8©–ˆíÇ,
+qsquid:S1450"URemove the "bitmap" field and declare it as a local variable in the relevant methods.(¢üÀ–8©–ˆíÇ,
+Dsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8©–ˆíÇ,
+Gsquid:S1075"&Remove this hard-coded path-delimiter.(é¨›¨ÿÿÿÿÿ8©–ˆíÇ,
+Asquid:S1659"%Declare "btn_add" on a separate line.(Â‡•‹8©–ˆíÇ,
+bsquid:S1854"ARemove this useless assignment to local variable "selectedImage".(ÅË¼µøÿÿÿÿ8©–ˆíÇ,
+jsquid:MaximumInheritanceDepth"<This class has 6 parents which is greater than 5 authorized.(á€ØÔ8©–ˆíÇ,
+Gsquid:S1659"&Declare "et_image" on a separate line.(öÚÐðýÿÿÿÿ8©–ˆíÇ,
+Ssquid:S1481"2Remove this unused "selectedImage" local variable.(ÅË¼µøÿÿÿÿ8©–ˆíÇ,
+squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(«û³±8©–ˆíÇ,
+usquid:S00116"SRename this field "et_image" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(öÚÐðýÿÿÿÿ8©–ˆíÇ,
+asquid:S2147"ECombine this catch with the one at line 218, which has the same body.(ï­£Ä8©–ˆíÇ,

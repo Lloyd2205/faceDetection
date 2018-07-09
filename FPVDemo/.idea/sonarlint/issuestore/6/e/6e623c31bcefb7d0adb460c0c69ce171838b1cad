@@ -1,0 +1,8 @@
+
+|squid:S1450"`Remove the "mRecognizeFaceBtn" field and declare it as a local variable in the relevant methods.(ﬁì Ω8ÇèÍÏ«,
+osquid:MaximumInheritanceDepth"<This class has 6 parents which is greater than 5 authorized.(åë”≠ˇˇˇˇˇ8˝öÊÏ«,
+Qsquid:S1068"5Remove this unused "mRecognizeFaceBtn" private field.(ﬁì Ω8ÏóËÏ«,
+Osquid:S1068"3Remove this unused "onClickListener" private field.(˘ò—Ò8â≥ÚÏ«,
+Rsquid:S1068"1Remove this unused "mAddPersonBtn" private field.(œÀËÓ¯ˇˇˇˇ8ÏóËÏ«,
+tsquid:S00120"WRename this package name to match the regular expression '^[a-z]+(\.[a-z][a-z0-9]*)*$'.(Ôã∆∫8˝öÊÏ«,
+}squid:S1450"\Remove the "mAddPersonBtn" field and declare it as a local variable in the relevant methods.(œÀËÓ¯ˇˇˇˇ8ööÏÏ«,

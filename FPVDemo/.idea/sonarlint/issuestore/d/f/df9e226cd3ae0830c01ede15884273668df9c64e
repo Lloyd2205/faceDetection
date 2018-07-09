@@ -1,0 +1,6 @@
+
+€"squid:ClassVariableVisibilityCheck"TMake mHandler a static final constant or non-public and provide accessors if needed.(ëÖáÈ
+msquid:S00120"WRename this package name to match the regular expression '^[a-z]+(\.[a-z][a-z0-9]*)*$'.(ï‹Æº
+squid:S1450"eRemove the "mDJISDKManagerCallback" field and declare it as a local variable in the relevant methods.(¨ô³ùûÿÿÿÿ
+›squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ê¬åìÿÿÿÿÿ
+Ksquid:S2696"6Make the enclosing method "static" or remove this set.(áƒäß
